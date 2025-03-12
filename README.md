@@ -1,8 +1,8 @@
-# Free Email Providers Without Phone Number Requirement
+# Free Email Providers Without Phone Number Requirement 📩
 
 This repository provides a list of free email providers that do not require a phone number to create an account. It also includes temporary and disposable email services for those who need email addresses for quick sign-ups or account farming.
 
-## 1. Free Email Providers That Don't Require a Phone Number
+## 1. Free Email Providers That Don't Require a Phone Number 📲🚫
 
 Some providers allow you to sign up without a phone number. However, they might ask you to verify the account through an alternative email or a CAPTCHA.
 
