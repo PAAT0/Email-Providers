@@ -26,7 +26,7 @@ Mail.com allows you to create accounts without asking for a phone number and off
 
 - [Mail.com](https://www.mail.com)
 
-## 2. Temporary or Disposable Email Services
+## 2. Temporary or Disposable Email Services 📱🕓
 
 If you need a temporary email address (one you won't use long-term), you can use services that let you create a one-time email. These are perfect for quick sign-ups or account farming.
 
